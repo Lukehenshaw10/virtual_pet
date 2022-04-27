@@ -1,0 +1,22 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "A virtual pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "v-pet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "virtual-pet"
+  },
+  "keywords": [
+    "virtual",
+    "pet"
+  ],
+  "author": "luke henshaw",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
